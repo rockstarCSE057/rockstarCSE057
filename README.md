@@ -21,11 +21,11 @@ besides I love listening to music 🎵
 **:rocket: My recent projects:**
 
 <a href="https://github.com/rockstarCSE057/Line-Encoding">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DaliaW&repo=PersonalPortfolio" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rockstarCSE057&repo=Line-Encoding" />
 </a>
 
 <a href="https://github.com/rockstarCSE057/Mini-Tic-Tac-Toe">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DaliaW&repo=Covid19-Tracker" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rockstarCSE057W&repo=Mini-Tic-Tac-Toe" />
 </a>
 
 
