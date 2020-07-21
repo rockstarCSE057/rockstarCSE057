@@ -25,7 +25,7 @@ besides I love listening to music 🎵
 </a>
 
 <a href="https://github.com/rockstarCSE057/Mini-Tic-Tac-Toe">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rockstarCSE057W&repo=Mini-Tic-Tac-Toe" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rockstarCSE057&repo=Mini-Tic-Tac-Toe" />
 </a>
 
 
