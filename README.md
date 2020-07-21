@@ -1,6 +1,7 @@
 ## Hey there!  👋
 
 <br />
+<img src="https://raw.githubusercontent.com/rockstarCSE057/rockstarCSE057/master/Mohan Sirvi.png" alt="banner that says Mohan Sirvi - software engineer">
 
 I'm Mohan Sirvi from India, a 3rd-year computer Engineering student at NIT SRINAGAR🎓 
 
