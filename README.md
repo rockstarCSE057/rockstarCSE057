@@ -17,6 +17,7 @@ and I have a strong determination to solve whatever problems in my way.💪
 
 besides I love listening to music 🎵
 
+![Mohan's github stats](https://github-readme-stats.vercel.app/api?username=rockstarCSE057&show_icons=true&hide_border=true)
 
 **:rocket: My recent projects:**
 
