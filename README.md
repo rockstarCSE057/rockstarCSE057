@@ -22,7 +22,7 @@ besides I love listening to music 🎵
 ![Mohan's github stats](https://github-readme-stats.vercel.app/api?username=rockstarCSE057&show_icons=true&hide_border=true)
 
 **:rocket: My recent projects:**
-
+<!--
 <a href="https://github.com/rockstarCSE057/Line-Encoding">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rockstarCSE057&repo=Line-Encoding" />
 </a>
@@ -33,7 +33,7 @@ besides I love listening to music 🎵
 
 
 
-<!--
+
 **Mohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
