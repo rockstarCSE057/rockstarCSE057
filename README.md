@@ -1,6 +1,8 @@
-## Hey there!  👋
+## Hey there!  👋😄😄😄
 <br />
-I'm Mohan Sirvi from India, a 3rd-year computer Engineering student at NIT SRINAGAR🎓 and also a Software developer 👩‍.
+I'm Mohan Sirvi from India, a 3rd-year computer Engineering student at NIT SRINAGAR🎓 and also a Software developer.
+
+
 
 💻 I have a strong passion for creating things that leave a positive impact on people,
 
