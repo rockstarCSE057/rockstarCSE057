@@ -2,7 +2,7 @@
 
 <br />
 
-I'm [Mohan Sirvi!] from India, a 3rd-year computer Engineering student at NIT SRINAGAR🎓 
+I'm Mohan Sirvi from India, a 3rd-year computer Engineering student at NIT SRINAGAR🎓 
 
 and also a Software developer 👩‍💻.
 
