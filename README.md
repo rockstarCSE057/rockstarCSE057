@@ -6,7 +6,7 @@ I'm Mohan Sirvi from India, a 3rd-year computer Engineering student at NIT SRINA
 
 and also a Software developer 👩‍💻.
 
-<img align="right" src="https://raw.githubusercontent.com/rockstarCSE057/rockstarCSE057/master/Mohan Sirvi.png" width="400" height="300" alt="banner that says Mohan Sirvi - software engineer">
+<img align="right" src="https://raw.githubusercontent.com/rockstarCSE057/rockstarCSE057/master/Mohan Sirvi1.png" width="400" height="300" alt="banner that says Mohan Sirvi - software engineer">
 
 I have a strong passion for creating things that leave a positive impact on people,
 
