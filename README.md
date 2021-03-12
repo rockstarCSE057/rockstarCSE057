@@ -1,6 +1,6 @@
 ## Hey there!👋 I'm Mohan Sirvi 😄😄😄
 <br />
-I'm Mohan Sirvi from India, a 4th-year computer Science Engineering student at NIT SRINAGAR🎓 and also a Software developer.
+I'm a 4th-year computer Science Engineering student at NIT SRINAGAR🎓 and also a Software developer.
 
 
 
